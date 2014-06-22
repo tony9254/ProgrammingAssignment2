@@ -1,4 +1,5 @@
-
+# Programming assignment #2 for Roger Peng Class
+# 06-22-2014
 # Make a list of matrix with a calculated inversion
 makeCacheMatrix <- function(x = matrix()) {
   
